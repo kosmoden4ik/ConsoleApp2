@@ -11,6 +11,9 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("klsdfj");
+            Console.WriteLine("lsdfjlaskdjfalskdfj\n\n\n\nlsdjflsdjflksjf");
+            Console.WriteLine("lsdfjlaskdjfalskdfj\n\n\n\nlsdjflsdjflksjf");
+            Console.Read();
         }
     }
 }
